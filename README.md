@@ -1,2 +1,3 @@
-# react_project4
-React project using props and default props
+# React project using props and default props
+
+I am an active student learning CSS, JS, React, Sass, and many other stuffs. Looking for a challenging job opportunity
